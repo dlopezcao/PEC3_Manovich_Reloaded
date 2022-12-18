@@ -15,22 +15,23 @@ En el caso que nos ocupa se va un paso más allá que en el del cine: no mezclam
 Lo que antaño se veía como una posibilidad (mezclar todo tipo de medios) se vuelve una realidad con el aumento de potencia de los ordenadores personales en los 90.
 
 
-## Caso 1: Photopills
+### Caso 1: Photopills
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 
-## Caso 2: Bots de Telegram
+### Caso 2: Bots de Telegram
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
-#### Referencias y Bibliografía
+## Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 
 * Ferguson, Kirby (2010-2012). **Everything is a Remix** .[Vídeo en línea]. Youtube.
 
 ----
+Autor: Daniel López Cao
 Autor: Daniel López Cao
