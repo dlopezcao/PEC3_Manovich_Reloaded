@@ -8,7 +8,7 @@
 
 En el cine, por ejemplo, *[Kirby Ferguson](https://en.wikipedia.org/wiki/Kirby_Ferguson)* comenta en su conocido documental *[Everything is a Remix (2010)](https://youtu.be/nJPERZDfyWc)* como muchas películas recombinan elementos de otras películas creando algo *«nuevo»* o *«diferente»* usando tres elementos: Copiar, transformar y combinar.
 
-[![Everything is a Remix (2010)](http://img.youtube.com/vi/nJPERZDfyWc/0.jpg)](ttps://youtu.be/nJPERZDfyWc?t=539 "Everything is a Remix (Remastered)")
+[![Everything is a Remix (2010)](http://img.youtube.com/vi/nJPERZDfyWc/0.jpg)](https://youtu.be/nJPERZDfyWc?t=539 "Everything is a Remix (Remastered)")
 
 En el caso que nos ocupa se va un paso más allá que en el del cine: no mezclamos medios del mismo tipo sino también otros medios diferentes para crear algo nuevo.
 
