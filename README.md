@@ -24,9 +24,9 @@ Las aplicaciones para asistir en la realización de fotografías no son algo nov
 
 Otras como calculadoras o tablas de hiperfocales, de equivalencias ópticas, o una base de datos con puntos de interés aparecen como aplicaciones independientes.
 
-En este contexto un pequeño grupo de españoles  aparece Photopills
+En este contexto un pequeño grupo de españoles comienza a trabajar en una aplicación que permitiría simplificar y unificar todas esas aplicaciones en una sola: nace Photopills.
 
-![Photopills](https://raw.githubusercontent.com/dlopezcao/PEC3_Manovich_Reloaded/main/photopills-presskit/presskit-es/Logos/png/Photopills%20vector%20identity-01.png?token=GHSAT0AAAAAAB4LEG6K53X6W44THQ6AOGL2Y47HOWQ) 
+<img src="https://raw.githubusercontent.com/dlopezcao/PEC3_Manovich_Reloaded/main/photopills-presskit/presskit-es/Logos/png/Photopills%20vector%20identity-01.png?token=GHSAT0AAAAAAB4LEG6K53X6W44THQ6AOGL2Y47HOWQ" width="300px" />
 
 #### Subapartado
 
