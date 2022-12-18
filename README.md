@@ -2,7 +2,7 @@
 
 ## ¿Qué es la hibridación?
 
-*«Otra metáfora que puede sernos de ayuda para entender la nueva etapa de desarrollo de los medios es la remezcla (remix). En el proceso de evolución del metamedio ordenador, los diversos tipos de medios media se remezclan para formar nuevas combinaciones.»*
+>*«Otra metáfora que puede sernos de ayuda para entender la nueva etapa de desarrollo de los medios es la remezcla (remix). En el proceso de evolución del metamedio ordenador, los diversos tipos de medios media se remezclan para formar nuevas combinaciones.»*
 
 *Lev Manovich*, usando este ejemplo cercano en su libro *El software toma el mando (2013)*, nos explica este concepto que hemos visto en muchas más ocasiones de las que pensamos pero quizás no le hemos prestado la debida atención.
 
@@ -26,18 +26,35 @@ Las aplicaciones y el software con el objetivo de asistir en la realización de 
 
 Previamente a los planificadores, otras aplicaciones como calculadoras o tablas de hiperfocales, de equivalencias ópticas, o una base de datos con puntos de interés aparecen como independientes.
 
-En este contexto un pequeño grupo de españoles comienza a trabajar en una aplicación que con el objetivo de simplificar y unificar todas las anteriores en una sola: nace Photopills.
+En este contexto un pequeño grupo de españoles comienza a trabajar en una aplicación que tiene como objetivo el simplificar y unificar todas las anteriores en una sola: nace Photopills.
 
-<img src="/photopills-presskit/presskit-es/Logos/png/Photopills%20vector%20identity-01.png" width="500px" />
+<img src="/photopills-presskit/presskit-es/Logos/png/Photopills%20vector%20identity-01.png" width="640px" />
 
-#### Subapartado
+#### Hibridación en Photopills
 
-aaaaaaaaaaaaaaaa
+>*¿Alguna vez te has parado en un lugar y pensado "¡Es una lástima que la Luna no esté EXACTAMENTE allí... habría sido una gran foto!"? ¿Y el Sol? ¿O la Vía Láctea? Pues bien, ahora ya puedes dejar volar la imaginación y averiguar cuándo ese momento mágico sucede, ¡en tan sólo unos segundos!*
+
+La aplicación de Photopills incorpora varias tecnologías hibridando medios previos como, por ejemplo, mapas con capas para planificar una salida fotográfica recordándonos en parte google maps pero yendo un paso más allá. No tenemos un mapa donde únicamente vemos carreteras sino también un mapa donde se superpone información de puntos de interés fotográfico, de dirección de salida y puesta de sol, de la luna, el inicio y fin de la hora dorada y otros elementos así como dónde mirar. Esta información en 2D resulta ya de por sí muy útil
+
+<img src="https://www.photopills.com/sites/all/themes/photopills/images/how-it-works-1-es.jpg" height="640px" />
+
+También incorpora la posibilidad de usar realidad aumentada para visualizar de forma preliminar por dónde se ubicará el astro y preparar con antelación a esa fotografía deseada. La aplicación nos dirá si estamos en la ubicación correcta, nos permitirá interactuar y avanzar en el tiempo para ver el recorrido de los astros así como informarnos de la posición de eventos próximos a ocurrir.
+
+Tanto en el planificador como en la realidad aumentada se hace algo más que usar una cámara o un mapa por separado, sino que fusionan esos medios con otros elementos como son las capas de información.
+
+*[PENDIENTE]*
+
+<img src="https://www.photopills.com/sites/all/themes/photopills/images/how-it-works-3.jpg" height="640px" />
 
 ### Caso 2: Bots de Telegram
 
+*[PENDIENTE]*
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+#### Hibridación en los bots de Telegram
+
+*[PENDIENTE]*
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Referencias y Bibliografía
 
@@ -46,6 +63,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * Ferguson, Kirby (2010-2012). **Everything is a Remix** .[Vídeo en línea]. Youtube.
 
 ----
-Autor: Daniel López Cao
-Autor: Daniel López Cao
-Autor: Daniel López Cao
+**Autor:** Daniel López Cao | **Fecha:** Diciembre de 2022
