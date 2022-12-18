@@ -16,13 +16,21 @@ Combinar no significa que cada elemento o medio que integran el nuevo medio se m
 
 Lo que antaño se veía como una posibilidad (mezclar todo tipo de medios) se vuelve una realidad con el aumento de potencia de los ordenadores personales en los 90.
 
-Esto mismo se repite como un eco con la llegada de la informática móvil, es decir, los smartphones.
+Esto mismo se repite como un eco unos años más tarde con la llegada de la informática móvil, es decir, los smartphones, con nuevas posibilidades gracias su ubicuidad y elementos de hardware que sin ser novedosos *per se* (cámaras digitales, brújulas o acelerómetros) reciben nuevos usos por parte de estos nuevos medios híbridos.
 
 ### Caso 1: Photopills
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Las aplicaciones para asistir en la realización de fotografías no son algo novedoso. De hecho, los planificadores surgen primero en formato web con ejemplos como  [The Photographer's Ephemeris](https://photoephemeris.com/about) en 2009 (y más adelante como app).
 
+Otras como calculadoras o tablas de hiperfocales, de equivalencias ópticas, o una base de datos con puntos de interés aparecen como aplicaciones independientes.
 
+En este contexto un pequeño grupo de españoles  aparece Photopills
+
+![Photopills](https://raw.githubusercontent.com/dlopezcao/PEC3_Manovich_Reloaded/main/photopills-presskit/presskit-es/Logos/png/Photopills%20vector%20identity-01.png?token=GHSAT0AAAAAAB4LEG6K53X6W44THQ6AOGL2Y47HOWQ) 
+
+#### Subapartado
+
+aaaaaaaaaaaaaaaa
 
 ### Caso 2: Bots de Telegram
 
@@ -36,5 +44,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * Ferguson, Kirby (2010-2012). **Everything is a Remix** .[Vídeo en línea]. Youtube.
 
 ----
+Autor: Daniel López Cao
 Autor: Daniel López Cao
 Autor: Daniel López Cao
