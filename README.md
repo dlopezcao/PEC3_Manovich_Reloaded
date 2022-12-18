@@ -26,7 +26,7 @@ Otras como calculadoras o tablas de hiperfocales, de equivalencias ópticas, o u
 
 En este contexto un pequeño grupo de españoles comienza a trabajar en una aplicación que permitiría simplificar y unificar todas esas aplicaciones en una sola: nace Photopills.
 
-<img src="https://raw.githubusercontent.com/dlopezcao/PEC3_Manovich_Reloaded/main/photopills-presskit/presskit-es/Logos/png/Photopills%20vector%20identity-01.png?token=GHSAT0AAAAAAB4LEG6K53X6W44THQ6AOGL2Y47HOWQ" width="300px" />
+<img src="/photopills-presskit/presskit-es/Logos/png/Photopills%20vector%20identity-01.png" width="300px" />
 
 #### Subapartado
 
