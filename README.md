@@ -34,7 +34,9 @@ En este contexto un pequeño grupo de españoles comienza a trabajar en una apli
 
 >*¿Alguna vez te has parado en un lugar y pensado "¡Es una lástima que la Luna no esté EXACTAMENTE allí... habría sido una gran foto!"? ¿Y el Sol? ¿O la Vía Láctea? Pues bien, ahora ya puedes dejar volar la imaginación y averiguar cuándo ese momento mágico sucede, ¡en tan sólo unos segundos!*
 
-La aplicación de Photopills incorpora varias tecnologías hibridando medios previos como, por ejemplo, mapas con capas para planificar una salida fotográfica recordándonos en parte google maps pero yendo un paso más allá. No tenemos un mapa donde únicamente vemos carreteras sino también un mapa donde se superpone información de puntos de interés fotográfico, de dirección de salida y puesta de sol, de la luna, el inicio y fin de la hora dorada y otros elementos así como dónde mirar. Esta información en 2D resulta ya de por sí muy útil
+La aplicación de Photopills incorpora varias tecnologías hibridando medios previos como, por ejemplo, mapas con capas para planificar una salida fotográfica recordándonos en parte google maps pero yendo un paso más allá. 
+
+No tenemos un mapa donde únicamente vemos carreteras sino también un mapa donde se superpone información de puntos de interés fotográfico, de dirección de salida y puesta de sol, de la luna, el inicio y fin de la hora dorada y otros elementos así como dónde mirar. Esta información en 2D resulta ya de por sí muy útil
 
 <img src="https://www.photopills.com/sites/all/themes/photopills/images/how-it-works-1-es.jpg" height="640px" />
 
