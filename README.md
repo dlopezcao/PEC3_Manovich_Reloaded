@@ -16,15 +16,17 @@ Combinar no significa que cada elemento o medio que integran el nuevo medio se m
 
 Lo que antaño se veía como una posibilidad (mezclar todo tipo de medios) se vuelve una realidad con el aumento de potencia de los ordenadores personales en los 90.
 
-Esto mismo se repite como un eco unos años más tarde con la llegada de la informática móvil, es decir, los smartphones, con nuevas posibilidades gracias su ubicuidad y elementos de hardware que sin ser novedosos *per se* (cámaras digitales, brújulas o acelerómetros) reciben nuevos usos por parte de estos nuevos medios híbridos.
+Esto mismo se repite como un eco unos años más tarde con la llegada de la informática móvil, es decir, los smartphones, con nuevas posibilidades gracias su ubicuidad y a incorporar elementos de hardware que, sin ser novedosos *per se* (cámaras digitales, brújulas o acelerómetros), reciben nuevos usos por parte de estos nuevos medios híbridos.
 
 ### Caso 1: Photopills
 
-Las aplicaciones para asistir en la realización de fotografías no son algo novedoso. De hecho, los planificadores surgen primero en formato web con ejemplos como  [The Photographer's Ephemeris](https://photoephemeris.com/about) en 2009 (y más adelante como app).
+Una de las claves cuando un fotógrafo quiere hacer una fotografía de paisaje es planificar previamente lo que se quiere hacer. Por ejemplo, ojear el sitio antes de disparar, tener un mapa de la zona, la idea de los edificios o silueta urbana a fotografiar, la posible posición de astros como el sol, la luna o los planetas que puedan ser usados en la composición, etc
 
-Otras como calculadoras o tablas de hiperfocales, de equivalencias ópticas, o una base de datos con puntos de interés aparecen como aplicaciones independientes.
+Las aplicaciones y el software con el objetivo de asistir en la realización de fotografías no son algo novedoso. De hecho, los planificadores surgen primero en formato web con ejemplos como  [The Photographer's Ephemeris](https://photoephemeris.com/about) en 2009 (y más adelante como app).
 
-En este contexto un pequeño grupo de españoles comienza a trabajar en una aplicación que permitiría simplificar y unificar todas esas aplicaciones en una sola: nace Photopills.
+Previamente a los planificadores, otras aplicaciones como calculadoras o tablas de hiperfocales, de equivalencias ópticas, o una base de datos con puntos de interés aparecen como independientes.
+
+En este contexto un pequeño grupo de españoles comienza a trabajar en una aplicación que con el objetivo de simplificar y unificar todas las anteriores en una sola: nace Photopills.
 
 <img src="/photopills-presskit/presskit-es/Logos/png/Photopills%20vector%20identity-01.png" width="500px" />
 
