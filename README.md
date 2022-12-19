@@ -36,21 +36,22 @@ En este contexto un pequeño grupo de españoles comienza a trabajar en una apli
 
 La aplicación de Photopills incorpora varias tecnologías hibridando medios previos como, por ejemplo, mapas con capas para planificar una salida fotográfica recordándonos en parte google maps pero yendo un paso más allá. 
 
-No tenemos un mapa donde únicamente vemos carreteras sino también un mapa donde se superpone información de puntos de interés fotográfico, de dirección de salida y puesta de sol, de la luna, el inicio y fin de la hora dorada y otros elementos así como dónde mirar. Esta información en 2D resulta ya de por sí muy útil
+No tenemos un mapa donde únicamente vemos carreteras sino también un mapa donde se superpone información de puntos de interés fotográfico, de dirección de salida y puesta de sol, de la luna, el inicio y fin de la hora dorada y otros elementos útiles para un fotógrafo así como también hacia dónde mirar. Esta información, que en 2D resulta ya de por sí muy útil sin ningún elemento adicional, no es la única hibridación de la que hace uso.
 
 <img src="https://www.photopills.com/sites/all/themes/photopills/images/how-it-works-1-es.jpg" height="640px" />
 
-También incorpora la posibilidad de usar realidad aumentada para visualizar de forma preliminar por dónde se ubicará el astro y preparar con antelación a esa fotografía deseada. La aplicación nos dirá si estamos en la ubicación correcta, nos permitirá interactuar y avanzar en el tiempo para ver el recorrido de los astros así como informarnos de la posición de eventos próximos a ocurrir.
+También incorpora la posibilidad de usar realidad aumentada para visualizar de forma preliminar en tiempo real por dónde se ubicará el astro y preparar con antelación todo lo que necesitamos para realizar esa fotografía deseada. La interfaz nos dirá si estamos en la ubicación correcta, nos permitirá interactuar y avanzar en el tiempo para ver el recorrido de los astros así como informarnos de la posición de eventos próximos a ocurrir.
 
-Tanto en el planificador como en la realidad aumentada se hace algo más que usar una cámara o un mapa por separado, sino que fusionan esos medios con otros elementos como son las capas de información.
-
-*[PENDIENTE]*
+Tanto en el planificador como en la realidad aumentada se hace algo más que usar una cámara o un mapa por separado pues combina esos medios con otros elementos como son las distintas capas de información que se adapta a nuestras necesidades bien haciendo uso de posicionamiento GPS, bien preguntando al usuario el que defina la ubicación. En ambos casos *«combinan distintos tipos de medios y técnicas de interfaz para proporcionar  información más exhaustiva sobre los lugares cuando no hay ningún medio que pueda cumplir esa función de forma aislada»*, como apostilla Lev Manovich al hablar de medios híbridos *(El software toma el mando, 2013)*
 
 <img src="https://www.photopills.com/sites/all/themes/photopills/images/how-it-works-3.jpg" height="640px" />
 
 ### Caso 2: Bots de Telegram
 
 *[PENDIENTE]*
+
+Los sistemas de chat son, junto con el correo electrónico, de los medios de comunicación informáticos más antiguos al aparecer a comienzos de los 70.
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 #### Hibridación en los bots de Telegram
