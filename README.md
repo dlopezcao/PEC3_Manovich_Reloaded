@@ -50,7 +50,7 @@ Tanto en el planificador como en la realidad aumentada se hace algo más que usa
 
 Los sistemas de chat son, junto con el correo electrónico, de los medios de comunicación informáticos más veteranos al aparecer a comienzos de los 70. De la informática personal se ha pasado al teléfono móvil y, hoy en día, Telegram se ha convertido en uno de los sistemas de chat más populares. Creado en 2013 por los hermanos Durov, hace uso de un protocolo propio llamado MTProto.
 
-Como buen sistema de chat incorpora comunicación individual (1 a 1) o en grupos (varios a varios). También incorpora otra modalidad menos frecuente que es el Canal (1 a varios), en general pensada para enviar notificaciones o avisos.
+Como buen sistema de chat incorpora comunicación individual (1 a 1) o en grupos (varios a varios). También incorpora otra modalidad menos conocida que es el Canal (1 a varios), en general pensada para enviar notificaciones o avisos.
 
 En 2015 desarrollaron una API con la que se facilitaba el desarrollo y uso de bots.
 
