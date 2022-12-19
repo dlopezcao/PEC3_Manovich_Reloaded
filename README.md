@@ -48,11 +48,13 @@ Tanto en el planificador como en la realidad aumentada se hace algo más que usa
 
 ### Caso 2: Bots de Telegram
 
+Los sistemas de chat son, junto con el correo electrónico, de los medios de comunicación informáticos más veteranos al aparecer a comienzos de los 70. De la informática personal se ha pasado al teléfono móvil y, hoy en día, Telegram se ha convertido en uno de los sistemas de chat más populares. Creado en 2013 por los hermanos Durov, hace uso de un protocolo propio llamado MTProto.
+
+Como buen sistema de chat incorpora comunicación individual (1 a 1) o en grupos (varios a varios). También incorpora otra modalidad menos frecuente que es el Canal (1 a varios), en general pensada para enviar notificaciones o avisos.
+
+En 2015 desarrollaron una API con la que se facilitaba el desarrollo y uso de bots.
+
 *[PENDIENTE]*
-
-Los sistemas de chat son, junto con el correo electrónico, de los medios de comunicación informáticos más antiguos al aparecer a comienzos de los 70.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 #### Hibridación en los bots de Telegram
 
@@ -63,7 +65,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 
-* Ferguson, Kirby (2010-2012). **Everything is a Remix** .[Vídeo en línea]. Youtube.
+* Ferguson, Kirby (2010-2012). **Everything is a Remix** .[Vídeo en línea]. Youtube. Disponible en: [https://youtu.be/nJPERZDfyWc](https://youtu.be/nJPERZDfyWc) 
+
+* Telegram Bot API. [En línea] Wikipedia. Disponible en: [https://es.wikipedia.org/wiki/Telegram_Bot_API](https://es.wikipedia.org/wiki/Telegram_Bot_API ) 
 
 ----
 **Autor:** Daniel López Cao | **Fecha:** Diciembre de 2022
