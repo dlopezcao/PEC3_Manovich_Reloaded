@@ -58,8 +58,6 @@ Los bots (abreviatura de robot) son pequeñas piezas de programación que no for
 
 #### Hibridación en los bots de Telegram
 
-*[PENDIENTE]*
-
 Uno de los casos de hibridación más visibles se encuentra en la integración de los chatbot en grupos y canales. Si nos ponemos las gafas de Manovich veremos por qué.
 
 Usando un bot padre (@botfather), gestionamos tokens, alias o permisos de los bots que vamos a usar.
