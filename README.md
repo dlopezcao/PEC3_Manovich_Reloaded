@@ -60,9 +60,19 @@ Los bots (abreviatura de robot) son pequeñas piezas de programación que no for
 
 *[PENDIENTE]*
 
-Uno de los casos de hibridación más visibles se encuentra en los chatbot conversacionales.
+Uno de los casos de hibridación más visibles se encuentra en la integración de los chatbot en grupos y canales. Si nos ponemos las gafas de Manovich veremos por qué.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Usando un bot padre (@botfather), gestionamos tokens, alias o permisos de los bots que vamos a usar.
+
+Una vez incorporados, estos bots permiten automatizar ciertas tareas más o menos complejas o repetitivas como, por ejemplo, la verificación de ciertos elementos de un usuario para evitar que se cuelen *«spammers»*, ofrecer información de forma regular (tiempo y temperatura, avisos, etc) o incluso soporte interactivo.
+
+¿Qué quiere decir soporte interactivo? Hablamos de los chatbot con funcionalidades conversacionales. Son bots inteligentes que integran funciones de IA para responder a las consultas de los usuarios de forma natural, sin tener que salir del propio telegram.
+
+Es decir, que integran lo que antiguamente eran programas aislados e  independientes y lo hacen de una manera transparente, como una capa más del propio programa. También ocurre un cambio social: la gente más joven prefiere escribir, aunque sea a un chatbot, antes que hablar con otra persona.
+
+En palabras del propio Manovich: 
+
+>*El resultado es un nuevo medio híbrido que combina las opciones de muchos medios aislados que existían previamente.*
 
 ## Referencias y Bibliografía
 
