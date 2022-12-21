@@ -50,15 +50,18 @@ Tanto en el planificador como en la realidad aumentada se hace algo más que usa
 
 Los sistemas de chat son, junto con el correo electrónico, de los medios de comunicación informáticos más veteranos al aparecer a comienzos de los 70. De la informática personal se ha pasado al teléfono móvil y, hoy en día, Telegram se ha convertido en uno de los sistemas de chat más populares. Creado en 2013 por los hermanos Durov, hace uso de un protocolo propio llamado MTProto.
 
-Como buen sistema de chat incorpora comunicación individual (1 a 1) o en grupos (varios a varios). También incorpora otra modalidad menos conocida que es el Canal (1 a varios), en general pensada para enviar notificaciones o avisos.
+Como buen sistema de chat incorpora comunicación individual (1 a 1) o en grupos (1 a varios, varios a varios). También incorpora otra modalidad menos conocida que es el Canal (direccional de 1 a varios), en general pensada para enviar notificaciones o avisos.
 
-En 2015 desarrollaron una API con la que se facilitaba el desarrollo y uso de bots.
+En 2015 desarrollaron una API con la que se facilitaba el desarrollo y uso de bots, permitiendo expandir y añadir capacidades donde antes no las había.
 
-*[PENDIENTE]*
+Los bots (abreviatura de robot) son pequeñas piezas de programación que no forman parte del programa original y permiten añadir servicios, obedecir comandos, ofrecer información y otras utilidades.
 
 #### Hibridación en los bots de Telegram
 
 *[PENDIENTE]*
+
+Uno de los casos de hibridación más visibles se encuentra en los chatbot conversacionales.
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Referencias y Bibliografía
